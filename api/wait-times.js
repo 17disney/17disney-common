@@ -54,10 +54,11 @@ export default {
     })
   },
 
-  destinations: function destinations(local) {
+  destinations: function destinations(local, params) {
     return request({
       url: `${BASE}/destinations/park/${local}`,
-      method: 'get'
+      method: 'get',
+      params
     })
   },
 
