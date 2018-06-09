@@ -1,4 +1,5 @@
 import request from '@/utils/request'
+
 const BASE = 'wait-times-service'
 
 export default {
