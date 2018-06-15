@@ -3,11 +3,11 @@ import request from '@/utils/request'
 const base = 'forecast-service'
 
 export default {
-  tickets: function tickets(local, st, et) {
+  tickets: function tickets(local, params) {
     return request({
       url: `${base}/tickets/${local}`,
       method: 'get',
-      params: { st, et }
+      params
     })
   },
   weatherHistory: function weatherHistory(st, et) {

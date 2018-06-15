@@ -1,4 +1,4 @@
-const color = {
+const COLOR = {
   colorPrimary: '#2492D7',
   colorPrimaryS: '#A1D4EE',
   colorPrimarySS: '#E8F4FB',
@@ -15,4 +15,4 @@ const color = {
   colorLightGreySSS: '#EDF1F4'
 }
 
-export default color
+export default COLOR
