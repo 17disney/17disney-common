@@ -83,5 +83,12 @@ export default {
       url: `${BASE}/explorer/park/schedules/${local}/${date}`,
       method: 'get'
     })
+  },
+
+  calendars: function calendars(local) {
+    return request({
+      url: `${BASE}/calendars/${local}`,
+      method: 'get'
+    })
   }
 }

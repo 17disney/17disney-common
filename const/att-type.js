@@ -1,16 +1,16 @@
 const ATT_TYPE = [
-  {
-    name: '上海迪士尼度假区',
-    id: 'destination',
-    icon: '',
-    showTab: false
-  },
-  {
-    name: '主题园区',
-    id: 'land',
-    icon: '',
-    showTab: false
-  },
+  // {
+  //   name: '上海迪士尼度假区',
+  //   id: 'destination',
+  //   icon: '',
+  //   showTab: false
+  // },
+  // {
+  //   name: '主题园区',
+  //   id: 'land',
+  //   icon: '',
+  //   showTab: false
+  // },
   {
     name: '游乐项目',
     id: 'attraction',
@@ -23,12 +23,12 @@ const ATT_TYPE = [
     icon: 'entertainment',
     showTab: true
   },
-  {
-    name: '周围景点',
-    id: 'entertainment-venue',
-    icon: '',
-    showTab: false
-  },
+  // {
+  //   name: '周围景点',
+  //   id: 'entertainment-venue',
+  //   icon: '',
+  //   showTab: false
+  // },
   {
     name: '餐饮',
     id: 'restaurant',
@@ -47,18 +47,18 @@ const ATT_TYPE = [
     icon: 'tours-events',
     showTab: true
   },
-  {
-    name: '酒店',
-    id: 'resort',
-    icon: '',
-    showTab: false
-  },
-  {
-    name: '主题乐园',
-    id: 'theme-park',
-    icon: '',
-    showTab: false
-  }
+  // {
+  //   name: '酒店',
+  //   id: 'resort',
+  //   icon: '',
+  //   showTab: false
+  // },
+  // {
+  //   name: '主题乐园',
+  //   id: 'theme-park',
+  //   icon: '',
+  //   showTab: false
+  // }
   // {
   //   name: 'The BOATHOUSE™',
   //   id: 'restaurant',
