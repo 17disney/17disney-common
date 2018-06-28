@@ -14,14 +14,14 @@ const TIMESGUIDE_TYPE_LIST = [
     name: '乐园时间表',
     icon: 'magic-morning',
     class: 'is-timesguide',
-    columns: 8
+    columns: 4
   },
   {
     id: TIMESGUIDE_TYPE.GUIDEMAP,
     name: '乐园指南',
     icon: 'disney-resort',
     class: 'is-timesguide',
-    columns: 8
+    columns: 4
   },
 
   {
@@ -29,7 +29,7 @@ const TIMESGUIDE_TYPE_LIST = [
     name: '小镇指南',
     icon: 'shdr-disneytown',
     class: 'is-timesguide',
-    columns: 8
+    columns: 4
   },
 
   {
@@ -37,28 +37,28 @@ const TIMESGUIDE_TYPE_LIST = [
     name: '其它指南',
     icon: 'catalogs',
     class: 'is-timesguide',
-    columns: 8
+    columns: 4
   },
   {
     id: TIMESGUIDE_TYPE.TICKET,
     name: '乐园门票',
     icon: 'tickets',
     class: 'is-ticket',
-    columns: 4
+    columns: 2
   },
   {
     id: TIMESGUIDE_TYPE.VOUCHER,
     name: '乐园兑换券',
     icon: 'wdw-tickets-and-passes',
     class: 'is-ticket',
-    columns: 4
+    columns: 2
   },
   {
     id: TIMESGUIDE_TYPE.STICKER,
     name: '乐园贴纸',
     icon: 'show-contains-bubble',
     class: 'is-sticker',
-    columns: 6
+    columns: 2
   }
 ]
 
