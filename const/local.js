@@ -53,10 +53,10 @@ const LOCAL = [
     coordinates: [28.418862, -81.581254]
   },
   {
-    id: 'tokon',
+    id: 'tokyo',
     lang: 'JP',
     label: 'ds.disneyLand.tokyo',
-    value: 'tokon',
+    value: 'tokyo',
     icon: 'tokyo-disney',
     utc: 8,
     open: false,
