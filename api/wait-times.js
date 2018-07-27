@@ -91,5 +91,12 @@ export default {
       url: `${BASE}/calendars/${local}`,
       method: 'get'
     })
+  },
+  // 乐园运营统计
+  operateCount: function operateCount(local) {
+    return request({
+      url: `${BASE}/operate/count/${local}`,
+      method: 'get'
+    })
   }
 }
