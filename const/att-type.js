@@ -1,16 +1,4 @@
 const ATT_TYPE = [
-  // {
-  //   name: '上海迪士尼度假区',
-  //   id: 'destination',
-  //   icon: '',
-  //   showTab: false
-  // },
-  // {
-  //   name: '主题园区',
-  //   id: 'land',
-  //   icon: '',
-  //   showTab: false
-  // },
   {
     name: '游乐项目',
     id: 'attraction',
