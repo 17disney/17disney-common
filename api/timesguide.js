@@ -3,7 +3,7 @@ import request from '@/utils/request'
 const base = 'timesguide-service'
 
 export default {
-  // 图片上传 Token‘
+  // 图片上传 Token
   uploadToken: function uploadToken() {
     return request({
       url: `${base}/v1/upload/token`,
