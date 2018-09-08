@@ -31,7 +31,6 @@ const TIMESGUIDE_TYPE_LIST = [
     class: 'is-timesguide',
     columns: 4
   },
-
   {
     id: TIMESGUIDE_TYPE.OTHERGUIDE,
     name: '其它指南',
